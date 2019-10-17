@@ -1,5 +1,4 @@
-# chicken-egg-oop
-###Java object-oriented programming code challenge.
+# Java object-oriented programming code challenge
 Example of Java applying interface, class inheritance and sending a function as an argument. This project was done without Java 8, 
 Libs, Frameworks or anything like that.
 
